@@ -27,8 +27,9 @@ package org.webcat;
  *  framework has a jar file created for it, and its resources end up being
  *  included as a live framework by Web-CAT.
  *
- *  @author  stedwar2
- *  @version $Id$
+ *  @author  Stephen Edwards
+ *  @author  Last changed by $Author$
+ *  @version $Revision$, $Date$
  */
 public class WonderUpdater
 {
